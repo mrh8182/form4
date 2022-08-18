@@ -1,0 +1,114 @@
+body {
+
+    background-color: #08AEEA;
+    width: 100%;
+    height: 100px;
+
+}
+
+.div1 {
+    box-shadow: 4px 4px 10px #1063f1a9,
+    -4px -4px 10px #1063f1a9;
+    background-color: aliceblue;
+    width: 100%;
+    margin: 130px auto;
+    max-width: 420px;
+    padding: 25px;
+    border-radius: 10px;
+}
+
+.div1 header {
+
+    font-size: 30px;
+    font-weight: 600;
+    margin-bottom: 20px;
+
+
+
+}
+
+.div1 .d2 {
+
+    height: 40px;
+    display: flex;
+    width: 100%;
+
+
+}
+
+.d2 input {
+
+    width: 85%;
+    height: 100%;
+    border: 1px solid #ccc;
+    font-size: 17px;
+    padding-left: 14px;
+    border-radius: 5px;
+
+
+}
+
+.d2 button {
+    background-color: blueviolet;
+    width: 60px;
+    height: 110%;
+    border: none;
+    outline: none;
+    color: #fff;
+    font-size: 22px;
+    margin-left: 5px;
+    cursor: pointer;
+
+}
+
+
+.list1 li  {
+    
+    list-style: none;
+    position: relative;
+    background: rgb(194, 189, 189);
+    margin-left: -30px;
+    margin-bottom: 8px;
+    padding: 0 16px;
+    border-radius: 5px;
+
+
+}
+
+.list1 li:hover{
+    font-weight: bolder;
+    color: rebeccapurple;
+}
+
+.div1 .div2 {
+
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    margin-top: 20px;
+    align-items: center;
+
+
+}
+
+.div2 button {
+    cursor: pointer;
+    outline: none;
+    border: none;
+    font-size: 17px;
+    padding: 6px 10px;
+    background-color: blueviolet;
+    color: #fff;
+}
+#b{
+    border-radius: 5px;
+}
+#b1{
+    border-radius: 5px;
+}
+#p{
+    margin-left: 8px;
+}
+.list1{
+    margin-top: 20px;
+}
